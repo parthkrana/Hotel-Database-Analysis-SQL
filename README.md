@@ -1,5 +1,5 @@
 # Hotel Database Analysis Project for IT320
-## In this project I created a Hotel Databa
+## In this project I created a Hotel Database
 
 #### Summary
 
@@ -30,4 +30,5 @@ Analyzing this information allowed me to identify how to forward phone calls to 
 - Design an ERD model for a multi-location hotel booking database utilizing Lucidchart
 - Join tables in a database on common (PK/FK) attributes using a inner join, left or right outer join, and a self-join
 - Create nested queries (sub-queries) for the purpose of providing values for the search criteria in the outer query
+- Implement reports to display key metrics to make informed business decisions at the hotel. 
 - Hotel ERD Database
