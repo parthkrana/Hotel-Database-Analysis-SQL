@@ -11,9 +11,9 @@ This assignment was for IT320 at DePaul University and taught me how to use a nu
 * Aggregate functions
 * Sorting techniques
 
-2. Learned how to use the relational algebra concepts intrinsic in SQL for processing multiple tables using joins and/or sub-queries
+2. Learned how to use the relational algebra concepts intrinsic in SQL for processing multiple tables using joins and/or sub-queries.
 
-3. Analyzed the requests to identify the tables, attributes, selection, and join criteria 
+3. Analyzed the requests to identify the tables, attributes, selection, and join criteria.
 
 In completing the assignment, I used SQL queries, operations, and calculations to understand data on hotel guests, which included names, phone numbers, addresses, room reservations, and more.
 
@@ -21,14 +21,18 @@ Analyzing this information allowed me to identify how to forward phone calls to 
 
 ![Revenue Image](IMG/revenue-image.pn)
 
-- Utilize the relational algebra concepts intrinsic in SQL for processing multiple tables using joins and or sub-queries
-- Analyze the requests to identify the tables, attributes, selection and join criteria 
-- Apply the SQL clauses to perform grouping operations, calculations and aggregate functions and sorting techniques
+- Utilize the relational algebra concepts intrinsic in SQL for processing multiple tables using joins and or sub-queries.
+- Analyze the requests to identify the tables, attributes, selection and join criteria. 
+- Apply the SQL clauses to perform grouping operations, calculations and aggregate functions and sorting techniques.
 
 #### Project Outline:
-- Create subsets of table data (single table or joined tables) and apply the aggregate functions of each subset
-- Design an ERD model for a multi-location hotel booking database utilizing Lucidchart
-- Join tables in a database on common (PK/FK) attributes using a inner join, left or right outer join, and a self-join
-- Create nested queries (sub-queries) for the purpose of providing values for the search criteria in the outer query
+- Create subsets of table data (single table or joined tables) and apply the aggregate functions of each subset.
+- Design an ERD model for a multi-location hotel booking database utilizing Lucidchart. A sample shown below.
+
+![Hotel Database Image](IMG/erd-diagram.pn)
+- Join tables in a database on common (PK/FK) attributes using a inner join, left or right outer join, and a self-join.
+- Create nested queries (sub-queries) for the purpose of providing values for the search criteria in the outer query.
 - Implement reports to display key metrics to make informed business decisions at the hotel. 
-- Hotel ERD Database
+
+Snapshot of the Hotel Database on Microsoft Access.
+![Hotel Database Image](IMG/hotel-database.pn)
