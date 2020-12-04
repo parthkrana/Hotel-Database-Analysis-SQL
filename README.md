@@ -19,7 +19,7 @@ In completing the assignment, I used SQL queries, operations, and calculations t
 
 Analyzing this information allowed me to identify how to forward phone calls to certain guest rooms and total company revenue based on room reservations and individual room rates. The revenue query is shown in the code sample below:
 
-![Revenue Image](IMG/revenue-image.pn)
+![Revenue Image](IMG/revenue-image.png)
 
 - Utilize the relational algebra concepts intrinsic in SQL for processing multiple tables using joins and or sub-queries
 - Analyze the requests to identify the tables, attributes, selection and join criteria 
