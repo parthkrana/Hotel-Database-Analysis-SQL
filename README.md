@@ -11,7 +11,7 @@ This assignment was for IT320 at DePaul University and taught me how to use a nu
 * Aggregate functions
 * Sorting techniques
 
-2. Learned how to use the relational algebra concepts intrinsic in SQL for processing multiple tables using joins and/or sub-queries.
+2. Utilized the relational algebra concepts intrinsic in SQL for processing multiple tables using joins and or sub-queries.
 
 3. Analyzed the requests to identify the tables, attributes, selection, and join criteria.
 
@@ -21,9 +21,7 @@ Analyzing this information allowed me to identify how to forward phone calls to 
 
 ![Revenue Image](IMG/revenue-image.png)
 
-- Utilize the relational algebra concepts intrinsic in SQL for processing multiple tables using joins and or sub-queries.
-- Analyze the requests to identify the tables, attributes, selection and join criteria. 
-- Apply the SQL clauses to perform grouping operations, calculations and aggregate functions and sorting techniques.
+- Applied the SQL clauses to perform grouping operations, calculations and aggregate functions and sorting techniques.
 
 #### Project Outline:
 - Create subsets of table data (single table or joined tables) and apply the aggregate functions of each subset.
