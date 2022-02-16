@@ -1,5 +1,4 @@
 # Hotel Database Analysis Project for IT320
-## In this project I created a Hotel Database
 
 #### Summary
 
@@ -32,5 +31,5 @@ Analyzing this information allowed me to identify how to forward phone calls to 
 - Create nested queries (sub-queries) for the purpose of providing values for the search criteria in the outer query.
 - Implement reports to display key metrics to make informed business decisions at the hotel. 
 
-Snapshot of the Hotel Database on Microsoft Access.
+#### Snapshot of the Hotel Database on Microsoft Access
 ![Hotel Database Image](IMG/hotel-database.png)
