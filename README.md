@@ -1,4 +1,4 @@
-# Hotel Database Analysis Project for IT320
+# Hotel Database Analysis Project for IT320 -
 
 #### Summary
 
